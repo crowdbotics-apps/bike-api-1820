@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT bike_api_1820.wsgi:application
